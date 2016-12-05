@@ -1,6 +1,6 @@
 ## About the tool
 
-
+This tool is designed to calculate the number of full days elapsed between two dates. The first and the last day are considered partial days and never counted. For example, difference between  dates 01/01/2000 to 03/01/2000 should return 1.
 
 ## Running the tool
 
