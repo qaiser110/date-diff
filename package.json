@@ -1,0 +1,11 @@
+{
+  "name": "dates-diff",
+  "version": "1.0.0",
+  "description": "A utility to calculate difference between 2 dates",
+  "main": "tests.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
