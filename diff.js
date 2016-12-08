@@ -9,7 +9,6 @@ var
     arg2 = process.argv[3];
     arg3 = process.argv[4];
 
-dateDiff(arg1, arg3)
 if (arg3) {
   console.log(dateDiff(arg1, arg3));
 } else {
